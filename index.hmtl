@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Edgar Personal Site</title>
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img width="300" src="images/edgar.jpg" alt=Edgar Orduna""></td>
+      <td>
+        <h1>Edgar Orduna Mondragon</h1>
+        <p><em>Owner Of <strong>Taqueria Los Cabrones</strong>, and previously <strong>Director Of Operations for Streamline Recon</strong>, and <strong>Precision Auto Recon.</strong></strong></em></p>
+        <p>Born August 3rd, 29 years old out of Jennings Fl, 32053 currently operating a food truck in FL, previously living in Dallas Tx, and Zion IL working as an operations Director. Learning Coding on Udemy under Dr. Angela Yu</p>
+      </td>
+    </tr>
+  </table>
+
+  <hr size="3.5">
+  <h3>Schools and Degrees</h3>
+  <ul>
+    <li><a href="https://www.d214.org/bghs">Buffalo Grove High School, 2011</a></li>
+    <li><a href="https://www.clcillinois.edu">College Of Lake County, no degree</a></li>
+    <li><a href="https://www.udemy.com">Full Coding Bootcamp at UDemy (Dr Angela Yu), 2022</a></li>
+  </ul>
+  <hr>
+  <h3>Work Experience</h3>
+
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Dates</th>
+        <th>Work</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2013</td>
+        <td>Precision Auto Detail, Owner and Operator</td>
+      </tr>
+      <tr>
+        <td>2016</td>
+        <td>Full Sercice Carwash, General Manager</td>
+      </tr>
+      <tr>
+        <td>2017</td>
+        <td>Precision Auto Recon, Director Of Operations</td>
+      </tr>
+      <tr>
+        <td>2019</td>
+        <td>StreamLine Recon, Director Of Detailing</td>
+      </tr>
+      <tr>
+        <td>2021</td>
+        <td>Taqueria Los Cabrones LLC, Owner and operator</td>
+      </tr>
+    </tbody>
+
+
+  </table>
+  <hr>
+
+
+
+  <h3>Skills</h3>
+  <table cellspacing="10">
+
+
+    <tr>
+      <td>CSS</td>
+      <td>&#11088&#11088&#11088&#11088&#9734</td>
+      <td>JAVA</td>
+      <td>&#11088&#11088&#11088&#11088&#9734</td>
+    </tr>
+
+    <tr>
+      <td>HTML</td>
+      <td> &#11088&#11088&#11088&#11088&#9734</td>
+      <td>Employee Management</td>
+      <td>&#11088&#11088&#11088&#11088&#11088</td>
+    </tr>
+
+    <tr>
+      <td>Management</td>
+      <td>&#11088&#11088&#11088&#11088&#11088</td>
+      <td>Scheduling</td>
+      <td>&#11088&#11088&#11088&#11088&#11088</td>
+    </tr>
+
+    <tr>
+      <td>Staffing</td>
+      <td>&#11088&#11088&#11088&#11088&#11088</td>
+      <td>Quality Control</td>
+      <td>&#11088&#11088&#11088&#11088&#11088</td>
+    </tr>
+
+    <tr>
+      <td>Customer Relations</td>
+      <td>&#11088&#11088&#11088&#11088&#11088</td>
+      <td>Communication</td>
+      <td>&#11088&#11088&#11088&#11088&#11088</td>
+    </tr>
+
+    <tr>
+      <td>Leadership</td>
+      <td>&#11088&#11088&#11088&#11088&#11088</td>
+      <td>Problem Solving</td>
+      <td>&#11088&#11088&#11088&#11088&#11088</td>
+    </tr>
+
+    <tr>
+      <td>Organization</td>
+      <td>&#11088&#11088&#11088&#11088&#11088</td>
+      <td>Negotiation</td>
+      <td>&#11088&#11088&#11088&#11088&#11088
+    </tr>
+
+
+    <tr>
+      <td>Strategic Planning</td>
+      <td>&#11088&#11088&#11088&#11088&#11088</td>
+      <td>Interpersonal Communication</td>
+      <td>&#11088&#11088&#11088&#11088&#11088</td>
+    </tr>
+
+    <tr>
+      <td>Conflict Resolution</td>
+      <td>&#11088&#11088&#11088&#11088&#11088</td>
+      <td>Delegation</td>
+      <td>&#11088&#11088&#11088&#11088&#11088</td>
+    </tr>
+
+    <tr>
+      <td>TeamWork</td>
+      <td>&#11088&#11088&#11088&#11088&#11088</td>
+      <td>Coaching</td>
+      <td>&#11088&#11088&#11088&#11088&#11088</td>
+    </tr>
+
+    <tr>
+      <td>Team Building</td>
+      <td>&#11088&#11088&#11088&#11088&#11088</td>
+      <td>Budgeting</td>
+      <td>&#11088&#11088&#11088&#11088&#9734</td>
+    </tr>
+    <tr>
+      <td>Time Management</td>
+      <td>&#11088&#11088&#11088&#11088&#11088</td>
+    </tr>
+  </table>
+  <hr>
+  <a href="hobbies.html"><strong>My Hobbies</strong></a>
+  <a href="contact.html"><strong>Contact Me</strong></a>
+
+
+</body>
+
+</html>
